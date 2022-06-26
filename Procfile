@@ -1,1 +1,1 @@
-web: gunicorn djanopractice.wsgi
+web: gunicorn djangopractice.wsgi
